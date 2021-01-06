@@ -2,3 +2,14 @@
   color: red;
   font-style: italic;
 }
+
+.best {
+  color: hotpink;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+body {
+  background-color: lightblue;
+}
